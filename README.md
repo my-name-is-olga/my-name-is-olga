@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-💫 <br>I'm currently learning how JavaScript language works. I'm interested in Front-end so I'm trying to learn more more about it using the projects that I'm working with as practice. FUN FACT! I'm a teacher of English enthusiastic about working with foreign companies.  I speak Spanish and English fluently.
+💫 <br>I'm currently learning how JavaScript language works. I'm interested in Front-end so I'm trying to learn more about it using the projects that I'm working with as practice. FUN FACT! I'm a teacher of English enthusiastic about working with foreign companies.  I speak Spanish and English fluently.
 
 
 ## 🌐 Socials:
